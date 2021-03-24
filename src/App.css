@@ -1,0 +1,6 @@
+.App {
+    /* background-color: #0e8fda; */
+    display: flex;
+    justify-content: center;
+    border: 1px double solid black;
+}

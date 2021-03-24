@@ -1,0 +1,8 @@
+.profile {
+    background-color: #0e8ff2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    width: 250px;
+}
